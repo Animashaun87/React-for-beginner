@@ -2,6 +2,8 @@
 .card-container {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    justify-items: center;
     background-color: #95dada;
     border: 1px solid grey;
     border-radius: 5px;
